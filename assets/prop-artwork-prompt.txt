@@ -1,0 +1,9 @@
+Create a clean transparent game prop atlas in the same soft polished3D storybook animation style and pastel palette as the supplied magical meadow. FOUR separate full objects in one horizontal row with generous transparent gutters; all objects sit on a common foot baseline near the bottom of their cell. No scene/background, floor, cast shadows, labels or text. The props must be friendly, round-edged, readable small, and fit a gentle preschool side-scrolling meadow.
+
+Left to right:
+1. One small rounded horizontal fallen log, warm honey-brown wood, clearly visible smooth cut end, rounded bark texture and tiny moss details. Side/three-quarter view, broad low shape, not scary or spiky.
+2. A very thin wide shallow turquoise puddle seen from a low side/perspective angle, soft glossy highlights and one subtle ripple. Wide horizontal oval, roughly6times wider than tall. Nothing sticking up, no splashes/animals. Keep transparency outside the water.
+3. A compact cluster of THREE friendly little mushrooms, pastel lavender/pink/peach rounded caps with cream dots, cream stems; middle mushroom slightly taller, broad low cluster viewed from the side.
+4. A short broad patch of pastel meadow flowers, pink/cream/yellow/lilac daisies with mint leaves and a few blades of grass; compact low blossom clump, not a pot or bush.
+
+Consistent gentle lighting and3D rendering, clean silhouettes, fully separated, no overlapping cells or clipped objects. Avoid stray detached pixels or extra objects. These are sprites displayed about126–180px wide in a kid's game.

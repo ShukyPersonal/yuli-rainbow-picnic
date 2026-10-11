@@ -1,0 +1,7 @@
+Use case: stylized-concept.
+Asset type: panoramic backdrop for a gentle side-scrolling unicorn-and-animal meadow game for a four-year-old.
+Input image: style reference only, matching the approved softly rendered 3D cartoon character's lighting, colorfulness and friendly toy-like look. Do not include the girl in this background.
+Scene: a welcoming magical meadow with soft mint-green rolling hills, flowering trees, small patches of pastel wildflowers, rounded mushrooms near the sides, cottony clouds and warm clear morning light. A few tiny butterflies are fine. Rich, beautiful, playful storybook atmosphere with thoughtful depth and soft textures.
+Composition: very wide panoramic landscape. Open sky and distant hills in upper half, meadow in middle, broad mostly flat unobstructed grassy walking path along the lower quarter from left to right. Keep center and lower-middle visually calm so game sprites and obstacles read clearly. Trees can frame the sides, with open views through the center. Camera at gentle side-view ground level matching a side-scrolling game, no dramatic overhead perspective.
+Palette: soft sky blue, mint and sage green, peach and lilac blossoms; bright but gentle daylight, no harsh contrast.
+Constraints: no people, no large animals, no unicorn character, no text, no logos, no UI, no diamonds, no obstacles across the walking path, no cliffs or pits. Finished high-quality 3D cartoon environment, no flat line art.

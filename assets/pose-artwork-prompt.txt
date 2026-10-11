@@ -1,0 +1,9 @@
+Create a transparent horizontal game sprite atlas of FOUR full-body action poses of the exact same cartoon Yuli from the reference. Keep identical recognizable face, curly brown hair, rainbow puff-sleeve knee-length dress and pink closed shoes, proportions, soft polished3D family-animation style. This is her fully clothed friendly preschool game heroine. Every pose faces RIGHT in the same side/three-quarter camera view. Consistent scale and head size; generous transparent gutters; no background, ground, cast shadows, text, labels or props; do not crop hair/hands/feet.
+
+Four distinct poses from LEFT to RIGHT:
+1. Calm standing idle: BOTH feet close together on ground, upright, relaxed hands by sides, happy gentle face.
+2. Friendly waiting/wave: BOTH feet close together, one hand raised beside face waving toward an animal on the right, warm smile.
+3. Airborne happy HOP: both knees gently bent with feet lifted back, arms slightly open for balance, delighted smile; knee-length dress remains fully covering and billows subtly. The lowest shoe point can remain near the common baseline so crop can be anchored, but posture MUST look like a jump rather than an ordinary walking stride.
+4. Picnic celebration: both feet comfortably together, arms lifted up and out in a joyful little hooray, big warm smile. Fully clothed throughout.
+
+Keep face/body identity and dress color arrangement identical to supplied reference in all four poses. The sprite will display at184px tall; silhouettes and gestures should be clear.

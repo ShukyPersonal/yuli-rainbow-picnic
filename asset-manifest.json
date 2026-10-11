@@ -1,0 +1,180 @@
+{
+  "music": {
+    "file": "assets/rainbow-meadow-theme.m4a"
+  },
+  "hero": {
+    "frames": [
+      {
+        "x": 120,
+        "y": 11,
+        "w": 442,
+        "h": 688,
+        "anchorX": 0.4829,
+        "anchorY": 1
+      },
+      {
+        "x": 672,
+        "y": 11,
+        "w": 321,
+        "h": 693,
+        "anchorX": 0.5496,
+        "anchorY": 1
+      },
+      {
+        "x": 1182,
+        "y": 11,
+        "w": 433,
+        "h": 687,
+        "anchorX": 0.4794,
+        "anchorY": 1
+      },
+      {
+        "x": 1741,
+        "y": 11,
+        "w": 332,
+        "h": 694,
+        "anchorX": 0.5252,
+        "anchorY": 1
+      }
+    ],
+    "drawHeight": 184,
+    "file": "assets/yuli-rainbow-dress-v2.png"
+  },
+  "heroPoses": {
+    "drawHeight": 184,
+    "frames": {
+      "idle": {
+        "x": 138,
+        "y": 17,
+        "w": 322,
+        "h": 689,
+        "anchorX": 0.5423,
+        "anchorY": 1
+      },
+      "waiting": {
+        "x": 633,
+        "y": 17,
+        "w": 340,
+        "h": 689,
+        "anchorX": 0.5501,
+        "anchorY": 1
+      },
+      "jump": {
+        "x": 1144,
+        "y": 12,
+        "w": 430,
+        "h": 632,
+        "anchorX": 0.5168,
+        "anchorY": 1
+      },
+      "celebrate": {
+        "x": 1694,
+        "y": 16,
+        "w": 396,
+        "h": 690,
+        "anchorX": 0.4076,
+        "anchorY": 1
+      }
+    },
+    "file": "assets/yuli-action-poses-v1.png"
+  },
+  "background": {
+    "file": "assets/meadow-v1.png"
+  },
+  "props": {
+    "frames": {
+      "log": {
+        "x": 15,
+        "y": 270,
+        "w": 565,
+        "h": 280
+      },
+      "puddle": {
+        "x": 598,
+        "y": 441,
+        "w": 556,
+        "h": 112
+      },
+      "mushrooms": {
+        "x": 1172,
+        "y": 272,
+        "w": 450,
+        "h": 272
+      },
+      "flowers": {
+        "x": 1639,
+        "y": 316,
+        "w": 516,
+        "h": 236
+      }
+    },
+    "file": "assets/meadow-props-v1.png"
+  },
+  "animals": {
+    "bunny": {
+      "frame": {
+        "x": 86,
+        "y": 24,
+        "w": 416,
+        "h": 642
+      },
+      "file": "assets/animal-friends-v1.png"
+    },
+    "kitten": {
+      "frame": {
+        "x": 585,
+        "y": 140,
+        "w": 448,
+        "h": 524
+      },
+      "file": "assets/animal-friends-v1.png"
+    },
+    "deer": {
+      "frame": {
+        "x": 1077,
+        "y": 8,
+        "w": 404,
+        "h": 668
+      },
+      "file": "assets/animal-friends-v1.png"
+    },
+    "unicorn": {
+      "frame": {
+        "x": 1528,
+        "y": 13,
+        "w": 597,
+        "h": 662
+      },
+      "file": "assets/animal-friends-v1.png"
+    }
+  },
+  "extraProps": {
+    "file": "assets/meadow-props-extra-v1.png",
+    "frames": {
+      "stones": {
+        "x": 47,
+        "y": 336,
+        "w": 504,
+        "h": 251
+      },
+      "bush": {
+        "x": 584,
+        "y": 295,
+        "w": 506,
+        "h": 295
+      },
+      "leaves": {
+        "x": 1108,
+        "y": 346,
+        "w": 587,
+        "h": 252
+      },
+      "cake": {
+        "x": 1718,
+        "y": 181,
+        "w": 395,
+        "h": 411
+      }
+    }
+  }
+}

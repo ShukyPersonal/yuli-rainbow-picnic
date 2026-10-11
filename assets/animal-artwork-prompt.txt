@@ -1,0 +1,7 @@
+Use case: stylized-concept.
+Asset type: transparent four-animal game sprite atlas.
+Input image: style reference only. Match the friendly softly rendered 3D cartoon style, warm lighting and cheerful colors of this approved game character; do not include any human.
+Primary request: exactly four lovable animal friends in a single wide horizontal row, one complete animal per equally sized cell: (1) small cream-white bunny with long pink-lined ears, (2) small peach tabby kitten with soft stripes, (3) young brown deer/fawn with small white spots, (4) friendly white unicorn with a pastel rainbow mane and tail and a small golden horn. Every animal has warm expressive eyes, rounded child-friendly proportions, gentle smile, plush-looking softness.
+Composition: full-body side or three-quarter side view facing RIGHT, same baseline and consistent lighting, paws visible, clear space between each animal, no overlap, no cropped ears/tails/hooves. Each animal is in a relaxed standing pose, usable as an isolated game cutout. Make the unicorn visibly magical and beautiful without overloading it with decoration.
+Background: genuine transparency, no ground shadows or scenery. No checkerboard baked in.
+Constraints: exactly one of each specified animal, no humans, no costumes, no props, no text, no borders, no logos, no watermark. Preserve clear silhouettes for a small screen. High-quality softly rendered 3D cartoon cutouts.

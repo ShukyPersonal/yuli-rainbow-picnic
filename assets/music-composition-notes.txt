@@ -1,0 +1,24 @@
+Rainbow Meadow
+
+An original 48-second instrumental composed for Yuli's Rainbow Picnic.
+The music was synthesized locally from mathematical oscillators. It contains
+no external recordings, samples, or borrowed melodies.
+
+16 bars at 80 beats per minute, in C major pentatonic. A rounded toy-piano
+melody sits above quiet warm chords and occasional lower answering notes.
+There is no percussion. Four small phrases include pauses and variations.
+Short stereo reflections soften the sound; the loop has silent edge samples
+and a gentle final fade, so its join cannot create a waveform click.
+
+The game uses the AAC .m4a version at a conservative playback volume of 0.18.
+The uncompressed stereo WAV is kept as a source asset, not an active download.
+Music begins only through the game's play/control gestures, pauses with the
+game or a hidden tab, and respects both global mute and the separate music
+switch. Browser autoplay restrictions are handled without stopping the game.
+
+Checks performed: signal peak/clipping/DC/loop-edge analysis, local AAC
+encode/decode checks, and mocked playback-controller state/race checks.
+An auditory listening review has not been performed in this environment.
+
+Recreate: python3 work/compose-music.py
+Encode: ffmpeg -i rainbow-meadow-theme.wav -c:a aac -b:a 96k rainbow-meadow-theme.m4a
